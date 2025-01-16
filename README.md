@@ -17,6 +17,10 @@ Um sistema de gerenciamento para pet shops desenvolvido em JavaFX. Este projeto 
 
 ### Diagrama de Classe  
 
+![Image](https://github.com/user-attachments/assets/d6b4a10e-f124-4edd-a4cf-489951eccab7)
+
 ### Diagrama ER  
+
 ![Image](https://github.com/user-attachments/assets/3aa636d6-a73f-4067-a030-e005d1cc1fda)
+
 ## Imagem do Sistema
