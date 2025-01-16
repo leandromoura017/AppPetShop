@@ -8,10 +8,6 @@ Um sistema de gerenciamento para pet shops desenvolvido em JavaFX. Este projeto 
 - Agendamento de serviços para os pets.  
 - Visualização e gerenciamento de serviços disponíveis.
 
-## Logo
-
-![Image](https://github.com/user-attachments/assets/30c2f66d-b092-4dbf-8357-7eb036b6e3ce)
-
 ## Tecnologias Utilizadas  
 
 - **JavaFX** para a interface gráfica do usuário.  
